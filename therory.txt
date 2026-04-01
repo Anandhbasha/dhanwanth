@@ -1,0 +1,33 @@
+class diagram
+class name
+    -varibleone
+    -varibletwo
+    -variblethree
+
++display()
+
+-private variable
++public
+
+object diagram
+
+classname objectname = new objectname()
+    +objectname.varible = "value"
+
+
+relationship
+Associatrion
+inheritence
+aggrigation
+compostion
+
+Class and object
+Encapsulation
+inheritence
+polymorsphism
+Abstraction
+
+datahiding
+methods
+instance level attributes
+jive environmet for debugging
