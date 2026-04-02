@@ -16,7 +16,7 @@ classname objectname = new objectname()
 
 
 relationship
-Associatrion
+Association
 inheritence
 aggrigation
 compostion
@@ -31,3 +31,7 @@ datahiding
 methods
 instance level attributes
 jive environmet for debugging
+
+
+
+Encapsulation
